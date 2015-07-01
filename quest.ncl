@@ -10,5 +10,7 @@
 		</regionBase>
 	</head>
 	<body id="myBodyID">
+		<media id="video_atencao" src="media/video_atencao.mp4">
+		</media>
 	</body>
 </ncl>

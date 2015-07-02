@@ -38,11 +38,11 @@
 				</region>
 				<region height="13.33%" id="region1" left="2.00%" top="35.62%" width="95.55%" zIndex="3">
 				</region>
-				<region height="13.33%" id="region2" left="2.58%" top="50.62%" width="95.55%" zIndex="3">
+				<region height="13.33%" id="region2" left="2.00%" top="50.62%" width="95.55%" zIndex="3">
 				</region>
-				<region height="13.33%" id="region3" left="2.46%" top="65.83%" width="95.55%" zIndex="3">
+				<region height="13.33%" id="region3" left="2.00%" top="65.83%" width="95.55%" zIndex="3">
 				</region>
-				<region height="13.33%" id="region4" left="2.46%" top="82.71%" width="95.55%" zIndex="3">
+				<region height="13.33%" id="region4" left="2.00%" top="82.71%" width="95.55%" zIndex="3">
 				</region>
 			</region>
 		</regionBase>

@@ -8,3 +8,11 @@ O video deve ficar em /media/video.mp4, e as perguntas no arquivo questions.txt
 
 Cada pergunta deve ficar no inicio de cada linha do arquivo, 
 e as respostas devem ficar separadas entre sí mesmas e a própria pergunta pelo caracter '#'.
+
+Ordem de execução:
+  *Editar o arquivo questions.txt
+  *Colocar o video desejado no path media/video.mp4
+  *Executar o arquivo questComposer.jar
+  *Executar o arquivo main.ncl
+
+O relatório de execução será salvo no arquivo saida.txt

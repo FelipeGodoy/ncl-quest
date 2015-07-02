@@ -8,7 +8,7 @@ function handler (evt)
 	
 	file, msg, code = io.open("saida.txt","a")
 	file:flush()
-	file:write(string.gsub(evt.value,"_"," "),"\n")
+	file:write(string.gsub(string.gsub(evt.value,"_"," "),"|","\n"),"\n\n")
 	file:close()
 	 
 end
